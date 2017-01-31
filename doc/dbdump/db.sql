@@ -2,7 +2,8 @@
 SQLyog Ultimate v9.02 
 MySQL - 5.6.31 : Database - laravel_application
 *********************************************************************
-*/
+*/
+
 
 /*!40101 SET NAMES utf8 */;
 
@@ -57,7 +58,7 @@ CREATE TABLE `users` (
 
 /*Data for the table `users` */
 
-insert  into `users`(`id`,`name`,`email`,`avatar`,`slug`,`gender`,`password`,`remember_token`,`created_at`,`updated_at`) values (1,'bengi','bengitiger@gmail.com','public/defaults/avatar/male.jpg','bengi',1,'$2y$10$tktrBPc0g4fo5GRxEgu8YuVRp.Fr0QBfn7WsCJlr5A5R0QWesPOFG','WGVYZcxhdKmurEbXQVWhaOa7wjzNV1QAx0RavqqFmxzE92nhYKKw4fnt53hL','2017-01-30 23:36:26','2017-01-30 23:36:26'),(2,'Lee Bengi Tiger','bengitiger119@gmail.com','public/defaults/avatar/male.jpg','lee-bengi-tiger',1,'$2y$10$Ba0yW6xb2k3/Ac9JsrnLEuaig4dLMR6pe5UXOj3E//xf9h.PR8krG',NULL,'2017-01-30 23:41:04','2017-01-30 23:41:04');
+insert  into `users`(`id`,`name`,`email`,`avatar`,`slug`,`gender`,`password`,`remember_token`,`created_at`,`updated_at`) values (1,'xxx','xxx@gmail.com','public/defaults/avatar/male.jpg','xxx',1,'$2y$10$tktrBPc0g4fo5GRxEgu8YuVRp.Fr0QBfn7WsCJlr5A5R0QWesPOFG','WGVYZcxhdKmurEbXQVWhaOa7wjzNV1QAx0RavqqFmxzE92nhYKKw4fnt53hL','2017-01-30 23:36:26','2017-01-30 23:36:26'),(2,'xxx xxx Tiger','xxx@gmail.com','public/defaults/avatar/male.jpg','xxx-xxx-tiger',1,'$2y$10$Ba0yW6xb2k3/Ac9JsrnLEuaig4dLMR6pe5UXOj3E//xf9h.PR8krG',NULL,'2017-01-30 23:41:04','2017-01-30 23:41:04');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
