@@ -11,7 +11,7 @@
                 </div>
                 <div class="panel-body">
 
-                    <img src="{{ Storage::url($user->avatar) }}" width="70" height="70" style="border: 50%;" alt="">
+                    <img src="{{ Storage::url($user->avatar) }}" width="140" height="140" style="border: 50%;" alt="">
 
                 </div>
             </div>
