@@ -5,6 +5,7 @@
 ## Storage Link 
 
 <b> php artisan storage:link </b>
+
 The [public/storage] directory has been linked.
 
 
